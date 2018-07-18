@@ -1,1 +1,3 @@
-# brute_with_csrf
+# SecTools
+
+A Collection of sec-related tools / scripts
